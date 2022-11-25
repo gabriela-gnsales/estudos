@@ -1,0 +1,7 @@
+.box-class{
+    border: 1px solid blue;
+}
+
+#box-id{
+    border: 1px solid red;
+}
